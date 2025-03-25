@@ -1,0 +1,12 @@
+# Python
+__pycache__
+*.pyc
+*.pyo 
+*.pyd 
+
+# Virual Env
+env/
+
+# Env Variables/JSON
+.env
+credentials.json
