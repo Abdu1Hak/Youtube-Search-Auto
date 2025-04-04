@@ -16,3 +16,10 @@ A Python automation tool to identify niche-specific YouTube influencers using ad
   - **Content Genre Match**: Validate alignment with search keywords via descriptions/video titles.
   - **Upload Schedule**: Filter channels uploading ≥1x/month.
 - **Automated Reporting**: Export results to Google Sheets with metrics like avg. views, subs, and content descriptions.
+
+
+## 🛠️ Tech Stack
+- **Python 3.9+**: Core scripting and data processing.
+- **YouTube Data API v3**: Channel/video metadata extraction.
+- **Google Sheets API**: Automated report generation.
+- **Pandas**: Data filtering and analysis.
